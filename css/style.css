@@ -891,8 +891,8 @@ a:hover {
 
 .card-blog .card-category .category {
   color: #fff;
-  display: inline-block;
-  text-transform: uppercase;
+  display: inline-block;  
+ 
   font-size: .7rem;
   letter-spacing: .1px;
   margin-bottom: 0;
